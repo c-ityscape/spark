@@ -1,7 +1,8 @@
 # Sparks Flutter Project
 
 Welcome to the Sparks Flutter project repository! This repository contains all the necessary folders and files to kickstart your Flutter project named "sparks." Follow the instructions below to set up your project:
-
+This project has two branches: the **main** branch contians the lib folder and pubspec.yaml files
+                              the **master** branch contains the rest of the files, please download the folders and files accordingly
 ## Getting Started
 
 1. **Create Flutter Project:**
